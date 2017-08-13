@@ -23,7 +23,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 app.get('/ui/madi.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', '31f845cdeaea9c9b6243b618118c181c.png'));
+  res.sendFile(path.join(__dirname, 'ui', '35-amazing-hd-motivational-wallpaper-for-your-desktop.jpg'));
 });
 
 
