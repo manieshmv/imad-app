@@ -2,7 +2,7 @@ console.log('Loaded!');
 //moving the image on click
 var img = document.getElementById('mani');
 var marginLeft =0;
-function moverRight() {
+function moveRight() {
     marginLeft = marginLeft + 10;
     img.styl.marginLeft = marginLeft + 'px';
 }
